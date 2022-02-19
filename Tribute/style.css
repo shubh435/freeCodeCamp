@@ -16,14 +16,13 @@ body{
 .container{
     text-align: center;
     max-width: 100%;
+    margin-top:3px;
     height: auto;
+    
     background-color: #eeeeee;
    
    display: block; 
    position: relative;
-   z-index: 2;
-   right: 0;
-   left: 0;
    padding-bottom: 30px;
 }
 .heading{
